@@ -1,0 +1,2 @@
+# discover-go
+GO WORKSHOP
